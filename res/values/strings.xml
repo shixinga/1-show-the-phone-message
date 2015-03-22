@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">手机秘书</string>
+    <string name="app_name">显示信息</string>
+    <string name="is_root_dir">当前根目录了</string>
+    <string name="is_file">当前最子目录</string>   
+</resources>
